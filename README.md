@@ -15,7 +15,7 @@
 <div>
 <h2 align="center"> 🦊 ~ Sobre Mim ~ 🦊 </h2>
   <div align="center">
-<img src="https://media1.tenor.com/m/4d_L5oT0YFAAAAAC/bom-dia.gif)" align="right">
+<img src="https://media1.tenor.com/m/uzeKPffQKEkAAAAC/bom-dia-valtatui.gif)" align="right">
   </div>
 <li>
  <b>Nome:</b> Gabriel</li>
@@ -27,18 +27,12 @@
 <b>Gênero:</b> Ele/Delas/244 🏳️‍⚧️
 </li>
 <li>
-<b>LastFM:</b> https://scrobble.egirl.ing
-</li>
-<li>
-<b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
-</li>
-<li>
-<b>Working @:</b> Intave Anticheat
+<b>Hobbys:</b> Jogar roblox, Jogar fortnite
 </li>
 <br><br><br>
 </div>
 <div>
-<h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
+<h2 align="center">            ~ 📇 Conhecimento 📇 ~</h2>
  <br>
 <p>
   <div align="center">
