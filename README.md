@@ -21,7 +21,7 @@
  <b>Nome:</b> Gabriel</li>
 </li>
 <li>
-<b>Gostos:</b> roblox, escola
+<b>Habilidades:</b> jogar roblox, gostar da escola
 </li>
 <li>
 <b>Gênero:</b> Ele/Delas/244 🏳️‍⚧️
@@ -46,7 +46,6 @@
 Eu também gosto muito de gatos.
 </p>
 <br>
-<h2 align="center">           📝 ~ Contate Me ~ 📝</h2>
   <div align="center">
 <img src="[https://i.imgur.com/KXx0cCx.gif](https://media1.tenor.com/m/-WJZMWuiy38AAAAC/bom-dia-valtatu%C3%AD-bom-dia.gif)" align="right" width="373.5px" height="208.5px">
   </div>
@@ -55,7 +54,7 @@ Eu também gosto muito de gatos.
 </div>
 <br>
 <div>
-<h2 align="center">💖 ~ Obrigado por ler! ~ 💖</h2>
+<h2 align="center"> ~ Obrigado por ler! ~ </h2>
 <div align="center">
 <img src="https://media1.tenor.com/m/6-UGxh94QkQAAAAC/bom-dia-aquele-dia-lindo.gif">
 </div>
