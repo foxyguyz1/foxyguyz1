@@ -1,6 +1,6 @@
 <body>
   <center>
-<h1 align="center">~ 💖 Bem vindx ao meu perfil! 💖 ~</h1>
+<h1 align="center">~  Bem vindx ao meu perfil!  ~</h1>
 <br>
 <div align="center">
 <!-- <a href="https://discord.com/users/pratizando" > -->
@@ -21,7 +21,7 @@
  <b>Nome:</b> Gabriel</li>
 </li>
 <li>
-<b>Gostos:</b> anime, roblox, school
+<b>Gostos:</b> roblox, escola
 </li>
 <li>
 <b>Gênero:</b> Ele/Delas/244 🏳️‍⚧️
