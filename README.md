@@ -1,16 +1,16 @@
 <body>
   <center>
-<h1 align="center">~  Bem vindx ao meu perfil!  ~</h1>
+<h1 align="center">~  Bem vindos ao meu perfil!  ~</h1>
 <br>
 <div align="center">
-<!-- <a href="https://discord.com/users/pratizando" > -->
+<!-- <a href="https://discord.com/users/desmatamento" > -->
   <a href="Carrd.io/fxxe/" >
-   <img src="https://media1.tenor.com/m/4d_L5oT0YFAAAAAC/bom-dia.gif"  />
+   <img src=""  />
   </a>
   
 </div>
     <div align="center">
-<!-- <img src="https://media1.tenor.com/m/4d_L5oT0YFAAAAAC/bom-dia.gif"> -->
+<!-- <img src="https://media3.giphy.com/media/eNN15JxJPCnFuUat81/giphy.webp?cid=ecf05e471aitxavhqjbfu0xzwqpw3un5qh6m3xba4pb8nmqp&ep=v1_gifs_search&rid=giphy.webp&ct=g"> -->
       </div>
 <div>
 <h2 align="center"> 🦊 ~ Sobre Mim ~ 🦊 </h2>
