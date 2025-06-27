@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [Developed the Project Unbound GUI's and the animations.](Developed the Project Unbound GUI's and the animations.)
 
-- ⚡ Fun fact **i think i'm unique.**
+- ⚡ Fun fact **Arch Linux is better than Windows.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
