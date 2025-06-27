@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel!</h1>
-<h3 align="center">A passionate games developer from Brazil</h3>
+<h3 align="center">A passionate game developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=foxyguyz1&label=Profile%20views&color=0e75b6&style=flat" alt="foxyguyz1" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Bloxlink Bot.](https://github.com/foxyguyz1/bloxlink.git)
 
-- 🌱 I’m currently learning **French.**
+- 🌱 I’m currently learning **French and improving my English.**
 
 - 👯 I’m looking to collaborate on **Nothing atm.**
 
@@ -16,8 +16,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/foxyguyz1](https://github.com/foxyguyz1)
 
 - 📝 I regularly write articles on [https://discord.gg/invite/#!UUuin1](https://discord.gg/invite/#!UUuin1)
-
-- 💬 Ask me about **my Roblox username.**
 
 - 📫 How to reach me **foxeenotopo@gmail.com**
 
